@@ -1,0 +1,37 @@
+# Jupyther notebook requirements
+ipython
+jupyter
+blender_notebook
+
+# Data manipulation
+numpy
+pandas
+
+# Data visualization
+matplotlib
+seaborn
+
+# # Machine learning
+# scikit-learn
+# xgboost
+# lightgbm
+
+# # Deep learning
+# tensorflow
+# keras
+
+# # Natural language processing
+# nltk
+# spacy
+
+# # Web scraping
+# beautifulsoup4
+# scrapy
+
+# # Database
+# sqlalchemy
+
+noVNC
+websockify
+
+

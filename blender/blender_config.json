@@ -1,0 +1,9 @@
+{
+    "blender_executable": "/opt/blender/blender",
+    "python_path": [
+      "/opt/blender/4.2/python/bin",
+      "/opt/blender/4.2/python/lib/python3.11",
+      "/opt/blender/4.2/python/lib/python3.11/lib-dynload",
+      "/opt/blender/4.2/python/lib/python3.11/site-packages"
+    ]
+  }

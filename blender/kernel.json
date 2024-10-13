@@ -1,0 +1,11 @@
+{
+    "argv": [
+      "/opt/blender/4.2/python/bin/python",
+      "/root/.local/share/jupyter/kernels/blender/kernel_launcher.py",
+      "-f",
+      "{connection_file}"
+    ],
+    "display_name": "blender",
+    "language": "python"
+  }
+  
