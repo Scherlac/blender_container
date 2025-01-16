@@ -55,7 +55,7 @@ docker run -it --rm -e ACCESS_PW=newPW \
 
 ## Current progress
 
-The current setup is already working quite well. The Docker image is built successfully and the container is running with smaller issues. The Blender GUI is accessible via VNC or novnc via browser. The Jupyter Notebook is accessible via browser as well. The BlenderNotebook.ipynb file is working the most part. Currently the notebook fails at selecting the front view in the 3d view port.
+The current setup is already working quite well. The Docker image is built successfully and the container is running with smaller issues. The Blender GUI is accessible via VNC or novnc via browser. The Jupyter Notebook is accessible via browser as well. The BlenderNotebook.ipynb file is now working. Selecting the front view in the 3d view port section was updated to support Blender 4.x version ([link](https://blender.stackexchange.com/questions/298458/why-does-bpy-ops-view3d-view-axis-not-work-in-view-3d-context)).
 
 ## To Do
 
